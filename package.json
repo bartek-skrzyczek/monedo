@@ -1,0 +1,13 @@
+{
+  "name": "monedo",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp-compass": "^2.1.0",
+    "gulp-sass": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
